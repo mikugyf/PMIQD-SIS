@@ -9,4 +9,4 @@ PMIDB-SIS Dataset including images, subjective scores and eye movement data.
 
 ### Acknowledgement
 
-Please email [gyfmiku@gmail.com](mailto:gyfmiku@gmail.com) or [gyfmiku@163.com](mailto:gyfmiku@163.com) if you have any question.
+Please email [gyfmiku@gmail.com](mailto:gyfmiku@gmail.com) or [gyfmiku@163.com](mailto:gyfmiku@163.com) if you have any question.(Please provide a brief introduction of your personal information and contact us using institutional email.)
