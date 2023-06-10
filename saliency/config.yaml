@@ -1,0 +1,11 @@
+
+### database ###
+Salicon:
+  shape_r: 320
+  shape_c: 480
+  imgs_train_path: '\img_train\'
+  maps_train_path: '\map_train\'
+  imgs_val_path: '\img_val\'
+  maps_val_path: '\map_val\'
+
+
